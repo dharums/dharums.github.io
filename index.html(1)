@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Native CSS Start -->
+  <link rel="stylesheet" href="css/index.css">
+  <!-- Native CSS End -->
+
+  <!-- Fontawesome Start -->
+  <script src="https://kit.fontawesome.com/94b68a0c09.js" crossorigin="anonymous"></script>
+  <!-- Fontawesome End -->
+
+  <title>Fayiaz Fidah</title>
+</head>
+<body>
+  <div class="container">
+    <div class="child-container">
+      <img class="profile" src="res/profile.png" alt="Profile Picture">
+      <h1 class="username">
+        Wahyu Dio Putra
+      </h1>
+      <p class="bio">
+        hai! perkenalkan nama saya wahyu, saya tinggal di sumatera selatan lahir di tahun 2004.
+      </p>
+
+      <div class="links">
+        <a href="https://www.facebook.com/profile.php?id=100062405779198&mibextid=ZbWKwL"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://instagram.com/wahyudioputra_"><i class="fa-brands fa-instagram"></i></a>
+      </div>
+    </div>
+    </div>
+</body>
+</html>
+
+<!--
+
+klo mau pake kasih credits lah
+
+-->
